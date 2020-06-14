@@ -26,10 +26,12 @@ ASCII art written to lincon.txt```
 
 ```
 + Original Image 
-![lincon color image](lincon.jpg)
+![lincon color image](lincon.jpg =40x40)
+
+
 
 + After Running the Code
-![ascii-image](lincon.png)
+![ascii-image](lincon.png = 40x40)
 
 
 For more Project visit my portfolio [visit](https://royninja.github.io)
