@@ -16,7 +16,8 @@ ASCII art is a graphic design technique that uses computers for presentation and
 
 # Heres a Demo
 
-```sayan@sayan-Vostro-15-3568:~/github/image_to_Ascii_art(master)-> python3 script.py --file lincon.jpg --out lincon.txt 
+```
+sayan@sayan-Vostro-15-3568:~/github/image_to_Ascii_art(master)-> python3 script.py --file lincon.jpg --out lincon.txt 
 generating ASCII art...
 input image dims: 1200 x 1200
 cols: 80, rows: 34
@@ -27,7 +28,7 @@ ASCII art written to lincon.txt```
 + Original Image 
 ![lincon color image](lincon.jpg)
 
-+ After Running the Code:
++ After Running the Code
 ![ascii-image](lincon.png)
 
 
