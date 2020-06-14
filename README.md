@@ -24,15 +24,13 @@ cols: 80, rows: 34
 tile dims: 15 x 34
 ASCII art written to lincon.txt```
 
+
 ```
+
+![lincon](lincon.png)
+
 + Original Image 
 ![lincon color image](lincon.jpg)
-
-
-
-+ After Running the Code
-![ascii-image](lincon.png)
-
 
 For more Project visit my portfolio [visit](https://royninja.github.io)
 ```
