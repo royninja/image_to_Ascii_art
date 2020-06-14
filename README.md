@@ -31,7 +31,7 @@ ASCII art written to lincon.txt```
 
 
 + After Running the Code
-![ascii-image](lincon.png = 40x40)
+![ascii-image](lincon.png =40x40)
 
 
 For more Project visit my portfolio [visit](https://royninja.github.io)
